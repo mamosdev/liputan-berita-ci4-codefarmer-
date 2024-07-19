@@ -1,0 +1,32 @@
+/* css was here */
+body {
+	background-color: #f8f9fa;
+}
+
+.jumbotron {
+	background: url('https://sourceunsplash..com/1600x400/?news') no-repeat center center;
+	background-size: cover;
+	color: white;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.card {
+	border: none;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h5 {
+	color: #007bff;
+}
+
+footer {
+	background-color: #343a40;
+	color: white;
+}
+
+footer a {
+	color: #007bff;
+}
